@@ -1,0 +1,4 @@
+Recebe data de vencimento
+Recebe data de pagamento
+Calcular quantos dias tem pra pagar
+Se cair sabado ou domingo pagar na segunda
