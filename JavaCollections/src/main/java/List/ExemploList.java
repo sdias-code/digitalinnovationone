@@ -53,6 +53,7 @@ public class ExemploList {
 
         System.out.println("*************** Próxima linha ***************");
         Iterator <String> nomesDaLista = nomes.iterator();
+
         while (nomesDaLista.hasNext()){
             System.out.println(nomesDaLista.next());
         }
