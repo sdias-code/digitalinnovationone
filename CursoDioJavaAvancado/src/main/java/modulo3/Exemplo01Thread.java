@@ -22,9 +22,7 @@ public class Exemplo01Thread {
         System.out.println("Nome da Thread: "+thread1.getName());
         System.out.println("Nome da Thread: "+thread2.getName());
 
- */
-
-
+*/
 
     }
 }

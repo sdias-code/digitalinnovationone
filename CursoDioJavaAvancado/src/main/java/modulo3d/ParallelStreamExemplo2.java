@@ -7,6 +7,7 @@ public class ParallelStreamExemplo2 {
     public static void main(String[] args) {
         List<String> nomes = Arrays.asList("Roberto", "Aline", "Fábio", "Suzana");
         nomes.parallelStream().forEach(System.out::println);
+        //nomes.stream().parallel().forEach(System.out::println);
 
     }
 }
