@@ -1,0 +1,13 @@
+Projeto simples Spring Boot MVC
+Aplicado conceito de ModelAndView
+
+Contendo
+Formulário de contato
+com nome e sobrenome
+Classes
+controller -> PostController
+datasource.model -> Post
+repository -> PostRepository
+SpringWebDemoApplication
+
+
